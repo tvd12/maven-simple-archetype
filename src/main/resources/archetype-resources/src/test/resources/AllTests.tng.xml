@@ -6,7 +6,7 @@
 <suite name="AllTests">
 	<test name="All">
 		<packages>
-			<package name="${package}.ezyfoxserver.testing"></package>
+			<package name="${package}.testing"></package>
 		</packages>
 	</test>
 </suite>
